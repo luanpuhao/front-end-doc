@@ -5,8 +5,6 @@
     + 原始类型：Boolean、Null、Undefined、Number、BigInt、String、Symbol  
     + 引用类型：Object  
     + 除Object以外的所有类型都是不可变的（值本身无法被改变）。   
-    
-    
     ```javascript
     const foo = [1, 2];
     const bar = foo;
