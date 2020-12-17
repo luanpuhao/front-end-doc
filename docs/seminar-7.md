@@ -1,6 +1,6 @@
 # 大前端内部技术交流会第七期（2020-12-24）  
 ## 1、js常用方法  
-> 1.1、JavaScript数据类型和数据结构  
+> ###1.1、JavaScript数据类型和数据结构  
   最新的 ECMAScript 标准定义了8种数据类型:  
   7种原始类型:Boolean、Null、Undefined、Number、BigInt、String、Symbol  
   1种引用类型：Object
