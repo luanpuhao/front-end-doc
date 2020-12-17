@@ -3,8 +3,7 @@
 - 1.1、JavaScript数据类型和数据结构  
     + JavaScript 是一种弱类型或者说动态语言。
     + 这意味着你不用提前声明变量的类型，在程序运行过程中，类型会被自动确定。
-    + 这也意味着你可以使用同一个变量保存不同类型的数据：   
-    
+    + 这也意味着你可以使用同一个变量保存不同类型的数据：
     ```javascript
     var foo = 42;    // foo is a Number now
     foo = "bar"; // foo is a String now
